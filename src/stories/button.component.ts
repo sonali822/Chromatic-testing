@@ -37,7 +37,7 @@ export default class ButtonComponent {
    * @required
    */
   @Input()
-  label = 'Button';
+  label = 'ButtonUpdated';
 
   /**
    * Optional click handler
