@@ -1,0 +1,646 @@
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.19
+
+TypeScript version used by Compodoc : 4.5.5
+
+TypeScript version of current project : 4.5.2
+
+Node.js version : v16.13.2
+
+Operating system : macOS
+
+[15:36:07] No configuration file found, switching to CLI flags.
+[15:36:07] Using tsconfig file : /Users/sonalisaxena/Desktop/chromatic-github-test/tsconfig.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.DS_Store
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.browserslistrc
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.env
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.editorconfig
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.gitignore
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.npmrc
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/README.md
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/angular.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/build-storybook.log
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/documentation.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/karma.conf.js
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/package.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/package-lock.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/tsconfig.app.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/tsconfig.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/tsconfig.spec.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.storybook/main.js
+[15:36:07] Ignoring       : /Users/sonalisaxena/Desktop/chromatic-github-test/.storybook/typings.d.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.storybook/tsconfig.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.vscode/extensions.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.storybook/preview.js
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.vscode/tasks.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/.DS_Store
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.vscode/launch.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/index.html
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/favicon.ico
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/main.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/polyfills.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/test.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/styles.css
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/app/app.component.css
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/app/app.component.html
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/app/app.module.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/environments/environment.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/app/app.component.ts
+[15:36:07] Ignoring       : /Users/sonalisaxena/Desktop/chromatic-github-test/src/app/app.component.spec.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/environments/environment.prod.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/assets/.gitkeep
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/Button.stories.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/Header.stories.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/Page.stories.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/Introduction.stories.mdx
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/User.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/button.component.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/button.css
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/header.component.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/header.css
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/page.component.ts
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/page.css
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/assets/code-brackets.svg
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/assets/colors.svg
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/assets/comments.svg
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/assets/plugin.svg
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/assets/repo.svg
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/assets/flow.svg
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/assets/direction.svg
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/assets/stackalt.svg
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/01e29b846ee4f61aa62a56e1c95b74f3.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/03597701ae08c8af3d125da2aa2efe70.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/04ec0288e636df17be1281e77f67bcf3.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/15cbbc365fffa150aa9c566144210997.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/059cfdadd508490adeabf3d74b8851cb.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/066a0b0adf9c01fb0435f75a576b6783.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/13924369f15747dd65a15508e89fcb00.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/163538f917916862532326ce1aa7f986.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/198b797eed6dece2ef87c7aeb2915b9f.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/1af5881922bfa8351d7880e2f8bf7b51.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/1e0b5443fbbe3818622cf17436e516e4.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/1f3f28592fc32a7b4ca0efda5c4c2eba.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/24f55edbd7711c791ce8f3af8e562583.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/253206a1323b72a1f08f3c6105c2fa6b.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/32a59165590e1c8f39eedebabf3c74fc.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/2f6dfbbb523992d78195634df238384f.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/35cc52dfcc86b646253224aecf49303f.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/3dc487ba5f23d21dd1c6b555e8cef649.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/3e3a592f1753a53b5c6793a13354586d.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/3ec2afc97a93a286eb49ebd63e213fe6.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/40c21f0a23861da7fb5f571dff203728.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/42231bbfd50efbb17dec81f11d9768a1.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/4668f1f53f8dde606e2fe07bca429c26.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/468f17aa7f4df023fe6016f05a5d6d90.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/4901879f2615a42c213cccbfc0939566.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/4d2755fdf5e760c22390d3e237875c87.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/51111749a16a66aa06a172e1e494ceed.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/5172c4a24decc2e91e69124f605d0aee.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/5c71cff3c961f3f8e3c364908b811285.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/5df564f4d8b77366f110af4e3d661ca3.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/5e84a3e7115d28ff5841104b121d129d.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/5fceadbcbc301fe17d9e7e4d07c8c8a0.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/60558cde8455a0ffc826b93e373ddabd.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/61be2c5e81a58c7d9c97423aae677161.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/62560f2e8a88394d16a7212c2f521112.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/67eaf24cd80747f8181970c137c27201.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/6883599e796f03dd87c4913e978fec58.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/6a22ededa8e732e13b486dd03b886de2.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/6dbcc68df7d6db052c209c2aa9ec20b8.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/6c27e1f70b6acfdc8a87b919c005b8b3.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/7015ecca5192c6572684e36c7d53d462.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/7036661a898b58fb2eec47841fa1dadf.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/74a56b1fedd5fdde8594afe60014601c.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/7bab330b53efd59847e5924cdc3fa01b.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/7ffd8080e3b32df98177f38d120349bb.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/83ba77c82fe0ce7f2f362a0d76ea2f72.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/805f2cecf745e322f68cdd4d56b54ebd.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/80638c5571cf92471fc097f68d920863.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/8381f627e8adf2c7bfe4d90f1efab971.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/89e0372005de1782eea6f4a125edc6da.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/8b5ae924c9fc8b26028a82078991c683.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/90a2c9f6fcb6aa62278de849f6a511ba.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/91b6773fe1a995d011028c5d728e2a90.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/91172127279c67f19672d7be385ff930.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/92b40fa0b0dad2d1aa0ebd439f735f34.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/92c1cf2155161e21ead62dae480fed92.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/92cbd40f9dfe00663d13387ab9fa498c.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/9430a2d2b297ac444d374ac23e2aa06d.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/943503f3553c8b1606bdffb87a46c81f.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/950e812f77ccb5359ae336e66ce431de.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/968e39e16b1c860624f20d6d282fcc65.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/96efa48b8f90caa132b031cd1df26270.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/97b92d1797c84a8f69190a1878e84fb1.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/a5a1549798246245c666dea68a2af076.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/a630fd2f3298710350c0c9ceb96dad7d.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/a83ced895753a9b3606867f3fd27d5dc.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/a856a0ac73464e3f0ffe84986712a07b.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/ac40dc1012cc1093eda03fd24c118fa1.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/adbb54ed637b26efba418a5c966dff9d.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/ad431482c4dc37fc3cafb57affb5221a.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/b31ace3b2c4dd4377337145e8f3e3c0e.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/b83fad496fb1015d6e90e54d0de5baeb.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/bdbb9479197d49ed61600eb4df6366f2.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/be0d73f88ca6c3d78e0184d02faeef86.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/bafbdafcb81a9e80dff3868c9ede90a5.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/c06fad5460d8b277fe92710137054f85.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/c126f4d38dc5fa53ad60abbabfb2145c.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/c13c677ffc96df6a0d5bc9e452a5f35e.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/c36e0d8513e7b5d1b8ffec80eba3be28.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/c42334def7c13f99f292b2295734b631.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/c59b929ab0b4ce49181474587c88d183.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/c5cceabb27d1621fd5ec12a60c082ecd.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/c677edd6ae1e2ce79390764c24fa410e.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/c7a00754e53864953d2e3f5abf81e2d0.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/d16cf85eeabfae5009640dd7747ae9a3.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/d29b08f9bf0b67906e811ca00dd85236.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/d511a91ec838879f4f7754bc086bbed7.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/d5a2d129dc9990c4ad486c3fc8b03161.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/dc5481d6a1254a8a5a39b082fe04486e.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/d59baf882c0c409cba74ac1a6e00763f.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/d70cf3d5734cfe6614b5e55dbc0c886d.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/dfae84740f64bf87f50f717943f080a1.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/e0913d49555acb244203be731718f983.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/e0ca751f9285b8a0dd0dc186e26d8073.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/e2548a83c3ee3962d232aeb7f19fb478.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/dcb3e377c18595fbf9e4eac026e32311.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/e3549373438b20c3692a5f0f7ceb172d.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/e88060151b80168b5dc3b34f09efbdb5.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/e8f48c95b0d64eac6945a9aad502c8f8.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/e996ac92faae6cf1c38414e16ddaae20.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/e9d68effa0cee876147a973940fb8091.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/ea6fceadf12ac5d6cc246a7fd9f41635.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/f07913cfca7a10aaeedb2e09cfb221ef.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/f39cf8bed8e6711be7117b312cfe6ae2.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/f529cdb3221c3ff9b14431a651a9df7d.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/f8eb11b9b770387e3a78a274c877952b.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/fd7b2548c6434243f972b7325e3bb608.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/fdbf3bb674beb009b77a098d9ceed049.json
+[15:36:07] Including      : /Users/sonalisaxena/Desktop/chromatic-github-test/.angular/cache/13.1.4/babel-webpack/fe1b1b730d341e8f12617987c45e68d9.json
+[15:36:07] Searching package.json file
+[15:36:07] package.json file found
+[15:36:07] Processing package.json dependencies
+[15:36:07] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[15:36:07] README.md file found
+[15:36:07] Error during /Users/sonalisaxena/Desktop/chromatic-github-test/CHANGELOG read
+[15:36:07] Continuing without CHANGELOG.md file
+[15:36:07] Error during /Users/sonalisaxena/Desktop/chromatic-github-test/CONTRIBUTING read
+[15:36:07] Continuing without CONTRIBUTING.md file
+[15:36:07] Error during /Users/sonalisaxena/Desktop/chromatic-github-test/LICENSE read
+[15:36:07] Continuing without LICENSE.md file
+[15:36:07] Error during /Users/sonalisaxena/Desktop/chromatic-github-test/TODO read
+[15:36:07] Continuing without TODO.md file
+[15:36:07] Get dependencies data
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/main.ts
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/polyfills.ts
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/test.ts
+[15:36:07] found          : require
+[15:36:07] found          : context
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/app/app.module.ts
+[15:36:07] found          : AppModule
+[15:36:07]                : - imports:
+[15:36:07]                : 	- BrowserModule
+[15:36:07]                : - declarations:
+[15:36:07]                : 	- AppComponent
+[15:36:07]                : - bootstrap:
+[15:36:07]                : 	- AppComponent
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/environments/environment.ts
+[15:36:07] found          : environment
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/app/app.component.ts
+[15:36:07] found          : AppComponent
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/environments/environment.prod.ts
+[15:36:07] found          : environment
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/Button.stories.ts
+[15:36:07] found          : Template
+[15:36:07] found          : Primary
+[15:36:07] found          : Secondary
+[15:36:07] found          : Large
+[15:36:07] found          : Small
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/Header.stories.ts
+[15:36:07] found          : Template
+[15:36:07] found          : LoggedIn
+[15:36:07] found          : LoggedOut
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/Page.stories.ts
+[15:36:07] found          : Template
+[15:36:07] found          : LoggedOut
+[15:36:07] found          : LoggedIn
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/User.ts
+[15:36:07] found          : User
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/button.component.ts
+[15:36:07] found          : ButtonComponent
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/header.component.ts
+[15:36:07] found          : HeaderComponent
+[15:36:07] parsing        : /Users/sonalisaxena/Desktop/chromatic-github-test/src/stories/page.component.ts
+[15:36:07] found          : PageComponent
+[15:36:07] -------------------
+[15:36:07] Project statistics 
+[15:36:07] - files      : 164
+[15:36:07] - module     : 1
+[15:36:07] - component  : 4
+[15:36:07] - interface  : 1
+[15:36:07] -------------------
+[15:36:07] Prepare components
+[15:36:07]  AppComponent has a templateUrl, include it
+[15:36:07]  AppComponent has styleUrls, include them
+[15:36:07]  ButtonComponent has styleUrls, include them
+[15:36:07]  HeaderComponent has styleUrls, include them
+[15:36:07]  PageComponent has styleUrls, include them
+[15:36:07] Prepare modules
+[15:36:07] Prepare interfaces
+[15:36:07] Prepare miscellaneous
+[15:36:07] Process documentation coverage report
+[15:36:07] Generating documentation in export format json
+[15:36:07] Documentation generated in ./ in 0.354 seconds
+info @storybook/angular v6.5.16
+info 
+info => Cleaning outputDir: /var/folders/v3/vhgypwk93m71gv81blw4d34c0000gp/T/chromatic--23008-V9m1cX7Hfip6
+info => Loading presets
+info => Compiling manager..
+info => Compiling preview..
+info Addon-docs: using MDX1
+info => Using implicit CSS loaders
+info => Loading angular-cli config for angular >= 13.0.0
+info => Using angular project with "tsConfig:/Users/sonalisaxena/Desktop/chromatic-github-test/.storybook/tsconfig.json"
+WARN Your Storybook startup uses a solution that will not be supported in version 7.0. 
+WARN You must use angular builder to have an explicit configuration on the project used in angular.json
+WARN Read more at:
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#sb-angular-builder)
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#angular13)
+info => Using angular project "chromatic-test-angular:build" for configuring Storybook
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup initialize
+<s> [webpack.Progress] 1% setup initialize HtmlWebpackPlugin
+<s> [webpack.Progress] 1% setup initialize
+<s> [webpack.Progress] 2% setup before run
+<s> [webpack.Progress] 2% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 2% setup before run
+<s> [webpack.Progress] 3% setup run
+<s> [webpack.Progress] 3% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile angular-compiler
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation CopyPlugin
+<s> [webpack.Progress] 8% setup compilation angular-compiler
+<s> [webpack.Progress] 8% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 8% setup compilation storybook-normalize-angular-entry-plugin
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation named-chunks-plugin
+<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
+<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 9% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 9% setup compilation SuppressExtractedTextChunks
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProvidePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DynamicEntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/17 entries 3/17 dependencies 0/3 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/17 entries 12/17 dependencies 0/12 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
+<s> [webpack.Progress] 10% building 0/17 entries 14/18 dependencies 0/14 modules
+<s> [webpack.Progress] 13% building 1/17 entries 67/98 dependencies 5/38 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/mdx1-csf/loader.js
+<s> [webpack.Progress] 13% building 1/17 entries 88/137 dependencies 6/50 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 13% building 1/17 entries 117/148 dependencies 6/74 modules
+<s> [webpack.Progress] 16% building 2/17 entries 167/223 dependencies 15/85 modules
+<s> [webpack.Progress] 19% building 3/17 entries 217/258 dependencies 19/122 modules
+<s> [webpack.Progress] 19% building 3/17 entries 432/600 dependencies 59/184 modules
+<s> [webpack.Progress] 19% building 3/17 entries 588/800 dependencies 73/243 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1000/1117 dependencies 114/338 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1300/1531 dependencies 167/382 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1617/1900 dependencies 198/428 modules
+<s> [webpack.Progress] 22% building 4/17 entries 1676/1998 dependencies 243/428 modules
+<s> [webpack.Progress] 22% building 4/17 entries 1880/2215 dependencies 264/500 modules
+<s> [webpack.Progress] 22% building 4/17 entries 2400/2630 dependencies 296/673 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3200/3397 dependencies 395/769 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3600/3640 dependencies 552/839 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3853/4000 dependencies 619/921 modules
+<s> [webpack.Progress] 22% building 4/17 entries 4178/4300 dependencies 660/1012 modules
+<s> [webpack.Progress] 22% building 4/17 entries 5065/5100 dependencies 901/1341 modules
+<s> [webpack.Progress] 23% building 4/17 entries 5600/5639 dependencies 1232/1408 modules
+<s> [webpack.Progress] 26% building 5/17 entries 5804/5849 dependencies 1326/1447 modules
+<s> [webpack.Progress] 29% building 6/17 entries 5804/5849 dependencies 1327/1447 modules
+<s> [webpack.Progress] 32% building 7/17 entries 5804/5849 dependencies 1328/1447 modules
+<s> [webpack.Progress] 35% building 8/17 entries 5804/5849 dependencies 1329/1447 modules
+<s> [webpack.Progress] 39% building 9/17 entries 5804/5849 dependencies 1330/1447 modules
+<s> [webpack.Progress] 42% building 10/17 entries 5804/5849 dependencies 1331/1447 modules
+<s> [webpack.Progress] 45% building 11/17 entries 5804/5849 dependencies 1332/1447 modules
+<s> [webpack.Progress] 48% building 12/17 entries 5804/5849 dependencies 1333/1447 modules
+<s> [webpack.Progress] 52% building 13/17 entries 5910/5932 dependencies 1398/1470 modules
+<s> [webpack.Progress] 55% building 14/17 entries 5963/5966 dependencies 1434/1485 modules
+<s> [webpack.Progress] 58% building 15/17 entries 5990/5993 dependencies 1464/1487 modules
+<s> [webpack.Progress] 61% building 16/17 entries 6006/6006 dependencies 1496/1496 modules
+<s> [webpack.Progress] 64% building 17/17 entries 6006/6006 dependencies 1496/1496 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph angular-compiler
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids NamedModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+info => Manager built (28 s)
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.3cea6bf8.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.3cea6bf8.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.90707b7d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.90707b7d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.fa2d198d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.fa2d198d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 332.ba84599d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 332.ba84599d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 850.92b0bf98.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 850.92b0bf98.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.ec04c7e4.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.ec04c7e4.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 874.74e67fb4.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 874.74e67fb4.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 147.7b6420df.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 147.7b6420df.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 700.acc3aeb4.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 700.acc3aeb4.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.67d29ebc.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.67d29ebc.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 958.67a6679f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 958.67a6679f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 958.67a6679f.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 958.67a6679f.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.ca6ed535.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.ca6ed535.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.0fcbc4ef.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.0fcbc4ef.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.f098377f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.f098377f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.c8ce5a9c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.c8ce5a9c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 147.58f3013b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 147.58f3013b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 700.fc7d800a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 700.fc7d800a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 332.42ed31b9.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 332.42ed31b9.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 850.c00239b4.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 850.c00239b4.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 874.ca99d6c7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 874.ca99d6c7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.b752b57d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.b752b57d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+info => Preview built (38 s)
+WARN /Users/sonalisaxena/Desktop/chromatic-github-test/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/sonalisaxena/Desktop/chromatic-github-test/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/sonalisaxena/Desktop/chromatic-github-test/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/sonalisaxena/Desktop/chromatic-github-test/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/sonalisaxena/Desktop/chromatic-github-test/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   850.c00239b4.iframe.bundle.js (790 KiB)
+WARN   958.37cfce94.iframe.bundle.js (3.66 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (3.75 MiB)
+WARN       runtime~main.0fcbc4ef.iframe.bundle.js
+WARN       958.37cfce94.iframe.bundle.js
+WARN       main.css
+WARN       main.ca6ed535.iframe.bundle.js
+WARN 
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+info => Output directory: /var/folders/v3/vhgypwk93m71gv81blw4d34c0000gp/T/chromatic--23008-V9m1cX7Hfip6
